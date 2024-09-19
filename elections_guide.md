@@ -1,4 +1,4 @@
-> Author: Rob Hanssen
+> Author: ____
 
 > Version: August 05, 2024
 
